@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import sys
 print("I like typing this.")
 print("This is fun.")
@@ -34,3 +35,6 @@ def search(d,v):
     return('the value not found')
 v1=input('enter a value to be recorded')
 print(search(d,v1))
+=======
+
+>>>>>>> origin/master
