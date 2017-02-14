@@ -4,6 +4,8 @@ print("This is fun.")
 print('Yay! Printing.')
 print("I'd much rather you 'not'.")
 print('I "said" do not touch this.')
+namonama=sys.platform
+print(namonama)
 lucky=21
 sr1=34
 print(lucky, "dergadg",sr1)
